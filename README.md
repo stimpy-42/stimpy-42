@@ -3,4 +3,4 @@ Hello, I'm Kai Brennan, also known by my username, Stimpy42. I'm always looking 
 ### Main Projects
 - [RépDate](https://github.com/stimpy-42/RepDate) (Ongoing)
   - Technologies used: HTML, CSS, and Javascript.
-  - A Chrome Web store extension that displays and converts the French Republican Calendar, providing a valuable tool for researchers of France and Belgium.
+  - A Chrome Web Store extension that displays and converts the French Republican Calendar, providing a valuable tool for researchers of France and Belgium.
